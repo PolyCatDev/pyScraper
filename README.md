@@ -1,5 +1,5 @@
 # What is this?
-This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python.
+This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python. :3
 
 # How to run it?
 1. Create a Python virtual enviroment and enter it.
