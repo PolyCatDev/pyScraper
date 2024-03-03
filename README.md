@@ -1,6 +1,12 @@
 # What is this?
 This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python. :3
 
+# System Dependencies
+1. python-tkinter 
+
+### ATENTION
+TK must be installed thru a sepparate package manager (apt, pacman, dnf, etc.) if it didn't come with your python installation.
+
 # How to run it?
 1. Create a Python virtual enviroment and enter it.
 2. Install the packages from the `requirements.txt` file.
