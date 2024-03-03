@@ -1,5 +1,5 @@
 # What is this?
-This is Poly's firts ever proper project. It's a HTML web scraper.
+This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python.
 
 # How to run it?
 1. Create a Python virtual enviroment and enter it.
@@ -14,4 +14,3 @@ This is Poly's firts ever proper project. It's a HTML web scraper.
 # What websites can I scrape?
 Any one really, but here is an example: https://quotes.toscrape.com/
 
-bananan hello World!
