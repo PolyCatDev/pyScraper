@@ -21,10 +21,14 @@ source .venv/bin/activate
 ``` 
 
 ### Install the requirements.txt
-`pip3 install -r requirements.txt`.
+```bash
+pip3 install -r requirements.txt
+```
 
 ### Run the main.py file
-`python3 main.py`
+```bash
+python3 main.py
+```
 
 # How to use it?
 1. Paste your link in the text box.
