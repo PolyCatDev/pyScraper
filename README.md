@@ -1,5 +1,5 @@
 # What is this?
-This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python.
+This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python that I built for learning purposes.
 
 # System Dependencies
 1. python-tkinter 
