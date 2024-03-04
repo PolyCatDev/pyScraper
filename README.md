@@ -8,9 +8,23 @@ This is PolyCat's firts ever proper project. It's a simple HTML web scraper made
 TK must be installed thru a sepparate package manager (apt, pacman, dnf, etc.) if it didn't come with your python installation.
 
 # How to run it?
-1. Create a Python virtual enviroment and enter it.
-2. Install the packages from the `requirements.txt` file.
-3. Run the `main.py` file.
+### Pull down the code
+```bash
+git clone https://github.com/PolyCatDev/pyScarper && \
+cd pyScarper
+```
+
+### Create a Python virtual enviroment and enter it
+```bash
+python3 -m venv .venv && \
+source .venv/bin/activate
+``` 
+
+### Install the requirements.txt
+`pip3 install -r requirements.txt`.
+
+### Run the main.py file
+`python3 main.py`
 
 # How to use it?
 1. Paste your link in the text box.
