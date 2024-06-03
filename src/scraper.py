@@ -4,7 +4,7 @@ import requests
 class WebDown:
     def __init__(self):
         
-        with open('memory/web_link.txt') as file:
+        with open('src/web_link.txt') as file:
             link = file.read()
         
         page_source = requests.get(link)

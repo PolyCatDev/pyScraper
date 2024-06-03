@@ -21,7 +21,7 @@ class GUI:
         self.root.mainloop()
     
     def download_webpage(self):
-        with open('./memory/web_link.txt', 'w') as file:
+        with open('src/web_link.txt', 'w') as file:
             file.write(self.entry.get())
         scraper.WebDown()
 
