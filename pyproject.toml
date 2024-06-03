@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pyscraper"
+version = "1.1.0"
+description = "Simple web scraper built in Python for learning purposes"
+authors = ["PolyCat <polycat@tuta.io>"]
+license = "GPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+beautifulsoup4 = "^4.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
