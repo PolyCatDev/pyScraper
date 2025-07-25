@@ -1,3 +1,5 @@
+# pyScarper
+
 A simple HTML web scraper made in Python that I built for learning purposes.
 
 # Contributing
