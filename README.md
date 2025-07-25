@@ -10,9 +10,8 @@ If anyone wants to take this further, bug reports, feature requests and PRs are 
 
 1. python-tkinter
 
-### ATENTION
-
-TK must be installed through a sepparate package manager (apt, pacman, dnf, etc.) if it didn't come with your python installation.
+> [!WARNING]
+> TK must be installed through a sepparate package manager (apt, pacman, dnf, etc.) if it didn't come with your python installation.
 
 # How to run it?
 
