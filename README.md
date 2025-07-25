@@ -1,6 +1,4 @@
-# What is this?
-
-This is PolyCat's firts ever proper project. It's a simple HTML web scraper made in Python that I built for learning purposes.
+A simple HTML web scraper made in Python that I built for learning purposes.
 
 # Contributing
 
@@ -8,7 +6,7 @@ If anyone wants to take this further, bug reports, feature requests and PRs are 
 
 # System Dependencies
 
-1. python-tkinter
+1. `python-tkinter`
 
 > [!WARNING]
 > TK must be installed through a sepparate package manager (apt, pacman, dnf, etc.) if it didn't come with your python installation.
